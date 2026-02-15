@@ -1,4 +1,4 @@
-**🛠️ Check out my project [buckshot](https://github.com/ReubenBeeler-buckshot), a collection of cloud-native microservices for autonomous wildlife photography.**
+**🛠️ Check out my project [Buckshot](https://github.com/ReubenBeeler-buckshot), a collection of cloud-native microservices for autonomous wildlife photography.**
 
 <!--
 **ReubenBeeler/ReubenBeeler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
